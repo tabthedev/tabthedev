@@ -1,5 +1,5 @@
 # Introduction
-<img src="https://github-readme-stats.vercel.app/api?username=tabthedev&layout=donut&theme=outrun&update=1" alt="My Github Stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=tabthedev&layout=donut&theme=outrun&update=1" align="right" >
+<img src="https://github-readme-stats.vercel.app/api?username=tabthedev&layout=donut&theme=outrun&update=2" alt="My Github Stats" align="right" >
 
 - Birthday : Feb. 06. 2010
 - Nationality : South Korea
@@ -11,7 +11,7 @@
 
 
 # Programming Experiences
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tabthedev&layout=donut&theme=outrun&langs_count=20&update=1" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=tabthedev&layout=donut&theme=outrun&langs_count=20&update=1" align="right" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tabthedev&layout=donut&theme=outrun&langs_count=20&update=2" alt="Top Langs" align="right" >
 
 - Lua : since 2018
 - Luau : since 2021
