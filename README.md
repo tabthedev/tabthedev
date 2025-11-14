@@ -1,5 +1,5 @@
 # Introduction
-<img src="https://github-readme-stats.vercel.app/api?username=tabthedev&layout=donut&theme=outrun&update=4" alt="My Github Stats" align="right" >
+<img src="https://github-readme-stats.vercel.app/api?username=tabthedev&layout=donut&theme=outrun&update=5" alt="My Github Stats" align="right" >
 
 <div align="middle">
   <a href="https://www.roblox.com/users/261189852/profile"><img src="https://img.shields.io/static/v1?message=Roblox&logo=roblox&label=&color=1F1F1F&logoColor=white&labelColor=&style=for-the-badge"></a>
@@ -23,7 +23,7 @@
 
 
 # Programming Skills
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tabthedev&layout=donut&theme=outrun&langs_count=20&update=4" alt="Top Langs" align="right" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tabthedev&layout=donut&theme=outrun&langs_count=20&update=5" alt="Top Langs" align="right" >
 
 [![Langs](https://skillicons.dev/icons?i=lua,py,js,ts,cpp,cs)](https://github.com/tabthedev)
 <br>
