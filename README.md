@@ -50,7 +50,7 @@
   <summary>Email</summary>
   
     - `me@tabthedev.kr` <br>
-    - `taehui@anchored.kr` <br>
+    - `taehui@anchored.kr` - temporary unavailable <br>
     - `tabthedev.kim@gmail.com` <br>
 </details>
 
