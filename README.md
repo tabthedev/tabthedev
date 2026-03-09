@@ -36,6 +36,7 @@
 - Unity C# : since 2020
 - C++ : since 2023
 - TypeScript : since 2025
+- Vite React (JSX) : since 2026
 
 
 
