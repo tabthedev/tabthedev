@@ -34,7 +34,7 @@
 - Python : since 2021
 - JavaScript : since 2021
 - Unity C# : since 2020
-- C++ : since 2023
+- MFC C++ : since 2023
 - TypeScript : since 2025
 - Vite React (JSX) : since 2026
 
