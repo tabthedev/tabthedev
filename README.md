@@ -1,5 +1,5 @@
 # Introduction
-<img src="https://github-readme-stats.vercel.app/api?username=tabthedev&show_icons=true&theme=outrun&update=6" alt="My Github Stats" align="right" style="display:'block'; width:'40%';" >
+<img src="https://github-readme-stats.vercel.app/api?username=tabthedev&show_icons=true&theme=outrun&update=6" alt="My Github Stats" align="right" style="display:'block'; width:'30%'; height:'auto';" >
 
 <div align="middle">
   <a href="https://www.roblox.com/users/261189852/profile"><img src="https://img.shields.io/static/v1?message=Roblox&logo=roblox&label=&color=1F1F1F&logoColor=white&labelColor=&style=for-the-badge"></a>
