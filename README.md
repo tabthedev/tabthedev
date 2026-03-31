@@ -32,7 +32,7 @@
 - Lua : since 2018
 - Luau : since 2021
 - Python : since 2021
-- JavaScript : since 2021
+- JavaScript(Node.js, html) : since 2021
 - Unity C# : since 2020
 - MFC C++ : since 2023
 - TypeScript : since 2025
